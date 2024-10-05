@@ -1,0 +1,16 @@
+html {
+  background-color: tomato;
+}
+
+.inline {
+  display: inline;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  height: 100vh;
+  gap: 400px;
+}
